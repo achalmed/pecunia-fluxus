@@ -25,11 +25,12 @@ categories:
   - Valor del Dinero
   - Evaluación de Proyectos
 tags:
-  - Interés Simple
-  - Interés Compuesto
-  - Anualidades
-  - Series Infinitas
-  - TIR
+  - interes_simple
+  - interes_compuesto
+  - anualidades
+  - series_infinitas
+  - tir
+  - finance
 
 # Nota del Autor
 author-note:

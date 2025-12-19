@@ -26,9 +26,10 @@ categories:
   - Instrumentos Financieros
   - Valoración
 tags:
-  - Calificación Crediticia
-  - Curva de Rendimiento
-  - Valorización de Bonos
+  - calificacion_crediticia
+  - curva_de_rendimiento
+  - valorizacion_de_bonos
+  - finance
 
 # Nota del Autor
 author-note:

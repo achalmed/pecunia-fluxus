@@ -26,10 +26,11 @@ categories:
   - Estados Financieros
   - Análisis Financiero
 tags:
-  - Balance General
-  - Resultados de Pérdidas y Ganancias
-  - Flujo de Efectivo
-  - Ratios Financieros
+  - balance_general
+  - resultados_de_perdidas_y_ganancias
+  - flujo_de_efectivo
+  - ratios_financieros
+  - finance
 
 # Nota del Autor
 author-note:

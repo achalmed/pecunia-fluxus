@@ -26,9 +26,10 @@ categories:
   - Optimización
   - Análisis Financiero
 tags:
-  - Diversificación
-  - Asignación de Activos
-  - CAPMb
+  - diversificacion
+  - asignacion_de_activos
+  - capmb
+  - finance
 
 # Nota del Autor
 author-note:

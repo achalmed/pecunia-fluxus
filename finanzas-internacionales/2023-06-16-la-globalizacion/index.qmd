@@ -23,11 +23,12 @@ keywords: [keyword1, keyword2]
 categories:
   - Finanzas Internacionales
 tags:
-  - FinanzasInternacionales
-  - EconomíaGlobal
-  - RiesgoCambiario
-  - MercadosFinancieros
-  - Globalización
+  - finanzas_internacionales
+  - economia_global
+  - riesgo_cambiario
+  - mercados_financieros
+  - globalizacion
+  - finance
 
 # Nota del Autor
 author-note:

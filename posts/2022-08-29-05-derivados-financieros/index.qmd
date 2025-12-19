@@ -26,10 +26,11 @@ categories:
   - Instrumentos Financieros
   - Valoración
 tags:
-  - Futuros
-  - Forwards
-  - Swaps
-  - Opciones
+  - futuros
+  - forwards
+  - swaps
+  - opciones
+  - finance
 
 # Nota del Autor
 author-note:

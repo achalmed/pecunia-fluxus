@@ -26,9 +26,10 @@ categories:
   - Valoración de Activos
   - Análisis Financiero
 tags:
-  - Múltiplos
-  - Dividendos
-  - Flujo de Caja Libre Descontado
+  - multiplos
+  - dividendos
+  - flujo_de_caja
+  - finance
 
 # Nota del Autor
 author-note:
