@@ -36,6 +36,7 @@ citation:
 date: 06/23/2023
 draft: true
 image: ../featured.jpg
+curso: finanzas_iii
 ---
 
 {{< include ../../_contenido-inicio.qmd >}}
