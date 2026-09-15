@@ -5,9 +5,7 @@ title: Teoría moderna de portafolio
 shorttitle: PORTAFOLIO
 abstract: Este abstract será actualizado una vez que se complete el contenido final
   del artículo.
-keywords:
-- keyword1
-- keyword2
+keywords: []
 categories:
 - Finanzas
 tags:
@@ -33,7 +31,7 @@ citation:
   author:
   - Edison Achalma
   pdf-url: https://pecunia-fluxus.netlify.app/posts/2022-09-05-06-teoria-de-portafolio/index.pdf
-date: 09/05/2022
+date: 2022-09-05
 draft: true
 image: ../featured.jpg
 curso: finanzas_i

@@ -5,9 +5,7 @@ title: Conceptos básicos de finanzas
 shorttitle: FINANZAS BÁSICAS
 abstract: Este abstract será actualizado una vez que se complete el contenido final
   del artículo.
-keywords:
-- keyword1
-- keyword2
+keywords: []
 categories:
 - Finanzas
 tags:
@@ -33,7 +31,7 @@ citation:
   author:
   - Edison Achalma
   pdf-url: https://pecunia-fluxus.netlify.app/posts/2022-08-01-01-conceptos-basicos/index.pdf
-date: 08/01/2022
+date: 2022-08-01
 draft: true
 image: ../featured.jpg
 curso: finanzas_i
