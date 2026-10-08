@@ -5,9 +5,7 @@ title: Finanzas corporativas fundamentales
 shorttitle: FINANZAS CORPORATIVAS
 abstract: Este abstract será actualizado una vez que se complete el contenido final
   del artículo.
-keywords:
-- keyword1
-- keyword2
+keywords: []
 categories:
 - Finanzas
 tags:
@@ -33,17 +31,28 @@ citation:
   author:
   - Edison Achalma
   pdf-url: https://pecunia-fluxus.netlify.app/posts/2022-08-08-02-finanzas-corporativas/index.pdf
-date: 08/08/2022
+date: 2022-08-08
 draft: true
 image: ../featured.jpg
+curso: finanzas_i
 ---
 
 Este artículo está actualmente en proceso de edición, y todas las secciones serán ampliadas y refinadas en futuras revisiones.
+
+---
+tipo: fragmento
+titulo: texto de apertura del bloque «Publicaciones similares» (incluido en cada post)
+---
 
 # Publicaciones Similares
 
 Si te interesó este artículo, te recomendamos que explores otros blogs y recursos relacionados que pueden ampliar tus conocimientos. Aquí te dejo algunas sugerencias:
 
+
+---
+tipo: fragmento
+titulo: índice de publicaciones de posts; lo genera script_generador_publicacion_similar
+---
 
 1. [{{< fa regular file-pdf >}}](https://achalmaedison.netlify.app/pub_pecunia-fluxus/posts/2022-08-01-01-conceptos-basicos/index.pdf) [01 Conceptos Basicos](https://achalmaedison.netlify.app/pub_pecunia-fluxus/posts/2022-08-01-01-conceptos-basicos)
 2. [{{< fa regular file-pdf >}}](https://achalmaedison.netlify.app/pub_pecunia-fluxus/posts/2022-08-08-02-finanzas-corporativas/index.pdf) [02 Finanzas Corporativas](https://achalmaedison.netlify.app/pub_pecunia-fluxus/posts/2022-08-08-02-finanzas-corporativas)
@@ -52,6 +61,11 @@ Si te interesó este artículo, te recomendamos que explores otros blogs y recur
 5. [{{< fa regular file-pdf >}}](https://achalmaedison.netlify.app/pub_pecunia-fluxus/posts/2022-08-29-05-derivados-financieros/index.pdf) [05 Derivados Financieros](https://achalmaedison.netlify.app/pub_pecunia-fluxus/posts/2022-08-29-05-derivados-financieros)
 6. [{{< fa regular file-pdf >}}](https://achalmaedison.netlify.app/pub_pecunia-fluxus/posts/2022-09-05-06-teoria-de-portafolio/index.pdf) [06 Teoria De Portafolio](https://achalmaedison.netlify.app/pub_pecunia-fluxus/posts/2022-09-05-06-teoria-de-portafolio)
 
+
+---
+tipo: fragmento
+titulo: texto de cierre del bloque «Publicaciones similares» (incluido en cada post)
+---
 
 Esperamos que encuentres estas publicaciones igualmente interesantes y útiles. ¡Disfruta de la lectura!
 
