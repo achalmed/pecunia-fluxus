@@ -1,7 +1,4 @@
----
-tipo: fragmento
-titulo: índice de publicaciones de finanzas-internacionales; lo genera script_generador_publicacion_similar
----
+<!-- fragmento de inclusión — índice de publicaciones de finanzas-internacionales; lo genera script_generador_publicacion_similar -->
 
 1. [{{< fa regular file-pdf >}}](https://achalmaedison.netlify.app/pub_pecunia-fluxus/finanzas-internacionales/2023-06-16-la-globalizacion/index.pdf) [La Globalizacion](https://achalmaedison.netlify.app/pub_pecunia-fluxus/finanzas-internacionales/2023-06-16-la-globalizacion)
 2. [{{< fa regular file-pdf >}}](https://achalmaedison.netlify.app/pub_pecunia-fluxus/finanzas-internacionales/2023-06-17-sistema-monetario-internacional/index.pdf) [Sistema Monetario Internacional](https://achalmaedison.netlify.app/pub_pecunia-fluxus/finanzas-internacionales/2023-06-17-sistema-monetario-internacional)
