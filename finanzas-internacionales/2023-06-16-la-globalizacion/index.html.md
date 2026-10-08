@@ -268,30 +268,21 @@ La globalización plantea desafíos para la soberanía nacional, ya que implica 
 
 Otra crítica importante es que la globalización ha llevado a una mayor frecuencia y gravedad de las crisis financieras. La interconexión de los mercados financieros internacionales ha aumentado la rapidez con la que las crisis se propagan y puede dificultar la implementación de medidas efectivas para controlarlas. Los flujos de capital especulativos y la falta de regulación adecuada pueden contribuir a la aparición de crisis financieras sistémicas.
 
----
-tipo: fragmento
-titulo: texto de apertura del bloque «Publicaciones similares» (incluido en cada post)
----
+<!-- fragmento de inclusión — texto de apertura del bloque «Publicaciones similares» (incluido en cada post) -->
 
 # Publicaciones Similares
 
 Si te interesó este artículo, te recomendamos que explores otros blogs y recursos relacionados que pueden ampliar tus conocimientos. Aquí te dejo algunas sugerencias:
 
 
----
-tipo: fragmento
-titulo: índice de publicaciones de finanzas-internacionales; lo genera script_generador_publicacion_similar
----
+<!-- fragmento de inclusión — índice de publicaciones de finanzas-internacionales; lo genera script_generador_publicacion_similar -->
 
 1. [{{< fa regular file-pdf >}}](https://achalmaedison.netlify.app/pub_pecunia-fluxus/finanzas-internacionales/2023-06-16-la-globalizacion/index.pdf) [La Globalizacion](https://achalmaedison.netlify.app/pub_pecunia-fluxus/finanzas-internacionales/2023-06-16-la-globalizacion)
 2. [{{< fa regular file-pdf >}}](https://achalmaedison.netlify.app/pub_pecunia-fluxus/finanzas-internacionales/2023-06-17-sistema-monetario-internacional/index.pdf) [Sistema Monetario Internacional](https://achalmaedison.netlify.app/pub_pecunia-fluxus/finanzas-internacionales/2023-06-17-sistema-monetario-internacional)
 3. [{{< fa regular file-pdf >}}](https://achalmaedison.netlify.app/pub_pecunia-fluxus/finanzas-internacionales/2023-06-23-balanza-pagos/index.pdf) [Balanza Pagos](https://achalmaedison.netlify.app/pub_pecunia-fluxus/finanzas-internacionales/2023-06-23-balanza-pagos)
 
 
----
-tipo: fragmento
-titulo: texto de cierre del bloque «Publicaciones similares» (incluido en cada post)
----
+<!-- fragmento de inclusión — texto de cierre del bloque «Publicaciones similares» (incluido en cada post) -->
 
 Esperamos que encuentres estas publicaciones igualmente interesantes y útiles. ¡Disfruta de la lectura!
 

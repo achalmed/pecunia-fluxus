@@ -39,20 +39,14 @@ curso: finanzas_i
 
 Este artículo está actualmente en proceso de edición, y todas las secciones serán ampliadas y refinadas en futuras revisiones.
 
----
-tipo: fragmento
-titulo: texto de apertura del bloque «Publicaciones similares» (incluido en cada post)
----
+<!-- fragmento de inclusión — texto de apertura del bloque «Publicaciones similares» (incluido en cada post) -->
 
 # Publicaciones Similares
 
 Si te interesó este artículo, te recomendamos que explores otros blogs y recursos relacionados que pueden ampliar tus conocimientos. Aquí te dejo algunas sugerencias:
 
 
----
-tipo: fragmento
-titulo: índice de publicaciones de posts; lo genera script_generador_publicacion_similar
----
+<!-- fragmento de inclusión — índice de publicaciones de posts; lo genera script_generador_publicacion_similar -->
 
 1. [{{< fa regular file-pdf >}}](https://achalmaedison.netlify.app/pub_pecunia-fluxus/posts/2022-08-01-01-conceptos-basicos/index.pdf) [01 Conceptos Basicos](https://achalmaedison.netlify.app/pub_pecunia-fluxus/posts/2022-08-01-01-conceptos-basicos)
 2. [{{< fa regular file-pdf >}}](https://achalmaedison.netlify.app/pub_pecunia-fluxus/posts/2022-08-08-02-finanzas-corporativas/index.pdf) [02 Finanzas Corporativas](https://achalmaedison.netlify.app/pub_pecunia-fluxus/posts/2022-08-08-02-finanzas-corporativas)
@@ -62,10 +56,7 @@ titulo: índice de publicaciones de posts; lo genera script_generador_publicacio
 6. [{{< fa regular file-pdf >}}](https://achalmaedison.netlify.app/pub_pecunia-fluxus/posts/2022-09-05-06-teoria-de-portafolio/index.pdf) [06 Teoria De Portafolio](https://achalmaedison.netlify.app/pub_pecunia-fluxus/posts/2022-09-05-06-teoria-de-portafolio)
 
 
----
-tipo: fragmento
-titulo: texto de cierre del bloque «Publicaciones similares» (incluido en cada post)
----
+<!-- fragmento de inclusión — texto de cierre del bloque «Publicaciones similares» (incluido en cada post) -->
 
 Esperamos que encuentres estas publicaciones igualmente interesantes y útiles. ¡Disfruta de la lectura!
 
