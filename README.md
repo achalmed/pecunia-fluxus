@@ -2,15 +2,15 @@
 tipo: readme
 estado: activo
 ---
-# pub_pecunia-fluxus/ — Finanzas: blog satélite del hub `04 index` (repo pecunia-fluxus, pecunia-fluxus.netlify.app)
+# pecunia-fluxus/ — Finanzas: blog satélite del hub `04 index` (repo pecunia-fluxus, pecunia-fluxus.netlify.app)
 
-<!-- GENERADO por `04 index/scripts/pubs.py readme --aplicar` desde `04 index/_pubs/pubs.yml` (2026-10-08); no editar aquí: se regenera desde el hub -->
+<!-- GENERADO por `04 index/scripts/pubs.py readme --aplicar` desde `04 index/_pubs/pubs.yml` (2026-10-10); no editar aquí: se regenera desde el hub -->
 
 ## Qué es
 
 Finanzas personales, corporativas e internacionales. Es uno de los 11 blogs satélite de la familia Quarto de Edison Achalma: un sitio Quarto
 con repositorio y sitio Netlify propios, incluido como submódulo git en el hub `04 index` (repo
-`website-achalma`) bajo `04 index/_pubs/pub_pecunia-fluxus/`. El mismo blog tiene tres nombres: carpeta `pub_pecunia-fluxus`, repo
+`website-achalma`) bajo `04 index/_pubs/pecunia-fluxus/`. El mismo blog tiene tres nombres: carpeta `pecunia-fluxus`, repo
 GitHub `achalmed/pecunia-fluxus` y dominio `pecunia-fluxus.netlify.app`; el registro de los tres es `04 index/_pubs/pubs.yml`.
 
 El tema visual (SCSS, JS, extensiones, filtros, `scripts/build-page-css.sh`) **no se edita aquí**: vive en el hub y
@@ -26,7 +26,7 @@ quarto render                               # regenera _site/ (freeze: true: el 
 git add -- <carpeta del post> _contenido_*.qmd _site && git commit -m "post: …"   # confirmar AQUÍ primero…
 ../../scripts/puerta-r6.sh .                # puerta R6: _site/index.html al día antes del push (también es el hook pre-push)
 git push                                    # …al remoto propio (ssh git@github.com:achalmed/pecunia-fluxus.git)
-cd ../.. && git add _pubs/pub_pecunia-fluxus && git commit -m "pubs: pecunia-fluxus al último commit"   # y mover el puntero en el hub
+cd ../.. && git add _pubs/pecunia-fluxus && git commit -m "pubs: pecunia-fluxus al último commit"   # y mover el puntero en el hub
 ```
 
 ## Estructura
