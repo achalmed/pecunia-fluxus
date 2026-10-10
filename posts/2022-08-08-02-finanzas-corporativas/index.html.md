@@ -48,12 +48,6 @@ Si te interesó este artículo, te recomendamos que explores otros blogs y recur
 
 <!-- fragmento de inclusión — índice de publicaciones de posts; lo genera script_generador_publicacion_similar -->
 
-1. [{{< fa regular file-pdf >}}](https://achalmaedison.netlify.app/pub_pecunia-fluxus/posts/2022-08-01-01-conceptos-basicos/index.pdf) [01 Conceptos Basicos](https://achalmaedison.netlify.app/pub_pecunia-fluxus/posts/2022-08-01-01-conceptos-basicos)
-2. [{{< fa regular file-pdf >}}](https://achalmaedison.netlify.app/pub_pecunia-fluxus/posts/2022-08-08-02-finanzas-corporativas/index.pdf) [02 Finanzas Corporativas](https://achalmaedison.netlify.app/pub_pecunia-fluxus/posts/2022-08-08-02-finanzas-corporativas)
-3. [{{< fa regular file-pdf >}}](https://achalmaedison.netlify.app/pub_pecunia-fluxus/posts/2022-08-15-03-renta-variable/index.pdf) [03 Renta Variable](https://achalmaedison.netlify.app/pub_pecunia-fluxus/posts/2022-08-15-03-renta-variable)
-4. [{{< fa regular file-pdf >}}](https://achalmaedison.netlify.app/pub_pecunia-fluxus/posts/2022-08-22-04-renta-fija/index.pdf) [04 Renta Fija](https://achalmaedison.netlify.app/pub_pecunia-fluxus/posts/2022-08-22-04-renta-fija)
-5. [{{< fa regular file-pdf >}}](https://achalmaedison.netlify.app/pub_pecunia-fluxus/posts/2022-08-29-05-derivados-financieros/index.pdf) [05 Derivados Financieros](https://achalmaedison.netlify.app/pub_pecunia-fluxus/posts/2022-08-29-05-derivados-financieros)
-6. [{{< fa regular file-pdf >}}](https://achalmaedison.netlify.app/pub_pecunia-fluxus/posts/2022-09-05-06-teoria-de-portafolio/index.pdf) [06 Teoria De Portafolio](https://achalmaedison.netlify.app/pub_pecunia-fluxus/posts/2022-09-05-06-teoria-de-portafolio)
 
 
 <!-- fragmento de inclusión — texto de cierre del bloque «Publicaciones similares» (incluido en cada post) -->
