@@ -34,7 +34,8 @@ citation:
 date: 2023-06-16
 draft: false
 image: ../featured.jpg
-curso: finanzas_iii
+curso: finanzas-iii
+tema: "6.1"
 ---
 
 # Orígenes y Conceptos Fundamentales de las Finanzas Internacionales

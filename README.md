@@ -33,7 +33,7 @@ cd ../.. && git add _pubs/pecunia-fluxus && git commit -m "pubs: pecunia-fluxus 
 
 | carpeta | qué es | entradas |
 |---|---|--:|
-| `finanzas-internacionales/` | sección temática | 3 |
+| `finanzas-internacionales/` | sección temática | 25 |
 | `posts/` | entradas sin sección temática | 6 |
 | `_quarto.yml`, `index.qmd`, `404.qmd`, `_contenido-inicio.qmd`, `_contenido-final.qmd` | configuración y portada propias del blog | |
 | `assets/scss/`, `assets/js/`, `assets/css/global.css`, `assets/css/components/`, `_extensions/`, `_filters/apa-floats-html.lua`, `scripts/build-page-css.sh` | tema propagado desde el hub por `sync-theme-pubs.sh`: no se edita aquí | |
@@ -42,7 +42,7 @@ cd ../.. && git add _pubs/pecunia-fluxus && git commit -m "pubs: pecunia-fluxus 
 | `THEME_VERSION` | sello del tema: commit del hub y sha256 del conjunto; lo escribe `sync-theme-pubs.sh --aplicar` (GENERADO) | |
 | `netlify.toml` | configuración de Netlify: publica `_site/` sin comando de build | |
 
-9 entradas. Cada entrada es `<sección>/AAAA-MM-DD-slug/index.qmd` con frontmatter apaquarto y fecha ISO;
+31 entradas. Cada entrada es `<sección>/AAAA-MM-DD-slug/index.qmd` con frontmatter apaquarto y fecha ISO;
 sus metadatos se editan en masa desde `scripts-quarto` (`metadata_manager`).
 
 ## Documentación

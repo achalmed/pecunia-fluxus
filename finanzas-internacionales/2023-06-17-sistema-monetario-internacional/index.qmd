@@ -34,7 +34,8 @@ citation:
 date: 2023-06-17
 draft: false
 image: ../featured.jpg
-curso: finanzas_iii
+curso: finanzas-iii
+tema: "6.2"
 ---
 
 # El Sistema Monetario Internacional
