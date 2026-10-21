@@ -33,7 +33,8 @@ cd ../.. && git add _pubs/pecunia-fluxus && git commit -m "pubs: pecunia-fluxus 
 
 | carpeta | qué es | entradas |
 |---|---|--:|
-| `finanzas-internacionales/` | sección temática | 25 |
+| `derivados-y-riesgo/` | sección temática | 22 |
+| `finanzas-internacionales/` | sección temática | 3 |
 | `posts/` | entradas sin sección temática | 6 |
 | `_quarto.yml`, `index.qmd`, `404.qmd`, `_contenido-inicio.qmd`, `_contenido-final.qmd` | configuración y portada propias del blog | |
 | `assets/scss/`, `assets/js/`, `assets/css/global.css`, `assets/css/components/`, `_extensions/`, `_filters/apa-floats-html.lua`, `scripts/build-page-css.sh` | tema propagado desde el hub por `sync-theme-pubs.sh`: no se edita aquí | |
