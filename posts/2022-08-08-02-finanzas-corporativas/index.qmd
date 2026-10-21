@@ -34,7 +34,8 @@ citation:
 date: 2022-08-08
 draft: true
 image: ../featured.jpg
-curso: finanzas_i
+curso: finanzas-i
+tema: "2.1"
 ---
 
 Este artículo está actualmente en proceso de edición, y todas las secciones serán ampliadas y refinadas en futuras revisiones.
