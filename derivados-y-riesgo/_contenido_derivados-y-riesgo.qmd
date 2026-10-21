@@ -1,0 +1,2 @@
+<!-- fragmento de inclusión — índice de publicaciones de derivados-y-riesgo; lo genera script_generador_publicacion_similar -->
+
