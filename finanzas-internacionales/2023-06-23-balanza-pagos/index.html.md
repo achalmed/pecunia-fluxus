@@ -34,7 +34,8 @@ citation:
 date: 2023-06-23
 draft: true
 image: ../featured.jpg
-curso: finanzas_iii
+curso: finanzas-iii
+tema: "6.3"
 ---
 
 <!-- fragmento de inclusión — texto de apertura del bloque «Publicaciones similares» (incluido en cada post) -->

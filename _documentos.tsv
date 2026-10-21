@@ -1,0 +1,10 @@
+# _documentos.tsv — GENERADO por scripts/documentos.py; no editar
+# Caché del modo documentos (render.sh --documentos): una fila por página y formato; la clave es el sha256 de la
+# fuente y de la fecha de la página; sha256 es el de la salida en _site/. Ver web/docs/decisiones.md §4.5.
+fuente	formato	salida	clave	sha256
+404.qmd	-	-	7bc2b5683a1a119f3a887b90d89f8f7b402de8f2d541e9ba7f116d63162ece4f	-
+finanzas-internacionales/2023-06-16-la-globalizacion/index.qmd	apaquarto-docx	finanzas-internacionales/2023-06-16-la-globalizacion/index.docx	92972d95b63cd6112ac8c6dfcf0bf3f2177dcd362361c4424db2d5d5c0eab522	563c057d9bb2a885dac2f5dcb1306ffaa4c4f4664b43a4134372b8131b1b97f5
+finanzas-internacionales/2023-06-16-la-globalizacion/index.qmd	apaquarto-pdf	finanzas-internacionales/2023-06-16-la-globalizacion/index.pdf	92972d95b63cd6112ac8c6dfcf0bf3f2177dcd362361c4424db2d5d5c0eab522	ff7783147f652323375287e16bc3c45039a1d0677f3475dd285291a4d46f0302
+finanzas-internacionales/2023-06-17-sistema-monetario-internacional/index.qmd	apaquarto-docx	finanzas-internacionales/2023-06-17-sistema-monetario-internacional/index.docx	c3d86e84a22964aab7e8b0d079cabf46d4a2e9d1c3d7fb1a60dc2c951b384213	c679b79c2228b4ecf7a6e6cd281629d64ca2cf145060c9bcfdaf524255ec18fa
+finanzas-internacionales/2023-06-17-sistema-monetario-internacional/index.qmd	apaquarto-pdf	finanzas-internacionales/2023-06-17-sistema-monetario-internacional/index.pdf	c3d86e84a22964aab7e8b0d079cabf46d4a2e9d1c3d7fb1a60dc2c951b384213	a75e93c3cc2802750120058f1125bc4e877c82d523e250f0f9c7e819273ce759
+index.qmd	-	-	c07f3372831b2ea5954722c86cde180ede0116805844637e8efb4b96d5635964	-

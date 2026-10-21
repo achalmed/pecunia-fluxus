@@ -4,7 +4,7 @@ estado: activo
 ---
 # pecunia-fluxus/ — Finanzas: blog satélite del hub `web` (repo pecunia-fluxus, pecunia-fluxus.netlify.app)
 
-<!-- GENERADO por `web/scripts/pubs.py readme --aplicar` desde `web/_pubs/pubs.yml` (2026-10-10); no editar aquí: se regenera desde el hub -->
+<!-- GENERADO por `web/scripts/pubs.py readme --aplicar` desde `web/_pubs/pubs.yml` (2026-10-20); no editar aquí: se regenera desde el hub -->
 
 ## Qué es
 
@@ -33,6 +33,7 @@ cd ../.. && git add _pubs/pecunia-fluxus && git commit -m "pubs: pecunia-fluxus 
 
 | carpeta | qué es | entradas |
 |---|---|--:|
+| `derivados-y-riesgo/` | sección temática | 22 |
 | `finanzas-internacionales/` | sección temática | 3 |
 | `posts/` | entradas sin sección temática | 6 |
 | `_quarto.yml`, `index.qmd`, `404.qmd`, `_contenido-inicio.qmd`, `_contenido-final.qmd` | configuración y portada propias del blog | |
@@ -42,7 +43,7 @@ cd ../.. && git add _pubs/pecunia-fluxus && git commit -m "pubs: pecunia-fluxus 
 | `THEME_VERSION` | sello del tema: commit del hub y sha256 del conjunto; lo escribe `sync-theme-pubs.sh --aplicar` (GENERADO) | |
 | `netlify.toml` | configuración de Netlify: publica `_site/` sin comando de build | |
 
-9 entradas. Cada entrada es `<sección>/AAAA-MM-DD-slug/index.qmd` con frontmatter apaquarto y fecha ISO;
+31 entradas. Cada entrada es `<sección>/AAAA-MM-DD-slug/index.qmd` con frontmatter apaquarto y fecha ISO;
 sus metadatos se editan en masa desde `scripts-quarto` (`metadata_manager`).
 
 ## Documentación
@@ -55,4 +56,4 @@ principio a fin), `web/docs/despliegue-netlify.md` (cómo publica cada sitio) y 
 
 - Este README es el único documento propio del blog y se regenera desde el hub: lo escrito aquí a mano se pierde.
 - `_site/` sigue en git: Netlify publica el _site/ empujado, sin build (decisiones §4.1 del hub); `netlify.toml` lo declara (`publish = "_site"`, sin comando de build), y el hook pre-push de la puerta R6 no viaja con el repo: lo instala `web/scripts/puerta-r6.sh --instalar`.
-- Licencia: código MPL-2.0 (`LICENSE`), contenido CC-BY-SA-4.0 según `license.qmd` del hub; unificarlas en los 12 sitios es la decisión D9.
+- Licencia: el contenido es CC-BY-SA-4.0 (`license.qmd` del hub) y el código MPL-2.0 (`LICENSE`), igual en los 12 sitios (D9, `web/docs/decisiones.md` §3.6).
