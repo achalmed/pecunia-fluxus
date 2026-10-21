@@ -35,7 +35,7 @@ cd ../.. && git add _pubs/pecunia-fluxus && git commit -m "pubs: pecunia-fluxus 
 |---|---|--:|
 | `derivados-y-riesgo/` | sección temática | 22 |
 | `finanzas-internacionales/` | sección temática | 3 |
-| `posts/` | entradas sin sección temática | 6 |
+| `posts/` | entradas sin sección temática | 9 |
 | `_quarto.yml`, `index.qmd`, `404.qmd`, `_contenido-inicio.qmd`, `_contenido-final.qmd` | configuración y portada propias del blog | |
 | `assets/scss/`, `assets/js/`, `assets/css/global.css`, `assets/css/components/`, `_extensions/`, `_filters/apa-floats-html.lua`, `scripts/build-page-css.sh` | tema propagado desde el hub por `sync-theme-pubs.sh`: no se edita aquí | |
 | `assets/img/`, `assets/fonts/`, `assets/gtm-*.html`, `assets/interactions.html`, `assets/scss/05-pages/`, `assets/css/pages/`, `_filters/_metadata-pdf.lua`, `_partials/` | propios del blog (no los escribe la sincronización) | |
@@ -43,7 +43,7 @@ cd ../.. && git add _pubs/pecunia-fluxus && git commit -m "pubs: pecunia-fluxus 
 | `THEME_VERSION` | sello del tema: commit del hub y sha256 del conjunto; lo escribe `sync-theme-pubs.sh --aplicar` (GENERADO) | |
 | `netlify.toml` | configuración de Netlify: publica `_site/` sin comando de build | |
 
-31 entradas. Cada entrada es `<sección>/AAAA-MM-DD-slug/index.qmd` con frontmatter apaquarto y fecha ISO;
+34 entradas. Cada entrada es `<sección>/AAAA-MM-DD-slug/index.qmd` con frontmatter apaquarto y fecha ISO;
 sus metadatos se editan en masa desde `scripts-quarto` (`metadata_manager`).
 
 ## Documentación
