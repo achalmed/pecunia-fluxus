@@ -34,9 +34,10 @@ image: ../featured.jpg
 curso: finanzas-iii
 tema: "5.2"
 generado: curriculo
+propuesta: 8f79ed677f00
 ---
 
-<!-- Esqueleto generado desde el currículo (docencia/contenido/cursos/finanzas-iii/curso.yml, tema 5.2) por web/scripts/cursos.py. El cuerpo es del autor: el generador solo actualiza el título mientras siga sin texto. -->
+<!-- Esqueleto generado desde el currículo (docencia/contenido/cursos/finanzas-iii/curso.yml, tema 5.2) por web/scripts/cursos.py. El cuerpo es del autor: el generador solo actualiza el título mientras siga sin texto. Cada «Propuesta» la armó docencia/scripts/leccion.py desde el alineamiento, tus apuntes, tus fichas, el curso tomado y el banco: estructura, preguntas y fuentes. El texto es tuyo; nada ajeno se copia. Mientras el cuerpo siga como lo dejó el generador (su huella en `propuesta:`), la propuesta se rehace sola. -->
 
 ## Objetivos
 
@@ -45,6 +46,10 @@ generado: curriculo
 ## Desarrollo
 
 <!-- La exposición del tema, de la intuición a la formalización: conceptos, supuestos o reglas, resultados y su interpretación. -->
+
+<!-- Propuesta:
+Lo estudiaste en el curso tomado «Finanzas III: temas avanzados en finanzas y mercados financieros» (Banco de Desarrollo de América Latina (CAF)): m14 «Fusiones y adquisiciones» (Calibre 2572), por parecido de título. Es material ajeno: se cita, no se copia.
+-->
 
 ## Ejemplos
 
@@ -73,9 +78,18 @@ quiz:
     tolerancia: 0.01
 -->
 
+<!-- Propuesta:
+El banco no tiene preguntas del tema que se corrijan solas: declara `tema: "5.2"` en las de opción, vf o numérica con `valor` de recuperacion.yml.
+-->
+
 ## Recursos
 
 <!-- Lecturas (por su clave de Calibre o Zotero), simuladores del tema, datasets y enlaces a las lecciones vecinas. -->
+
+<!-- Propuesta:
+Fuentes por su número de Calibre:
+- Calibre 2572 «Fusiones y adquisiciones» (módulo m14 del curso tomado «Finanzas III: temas avanzados en finanzas y mercados financieros»: se cita, no se copia)
+-->
 
 {{< include ../../_contenido-inicio.qmd >}}
 
